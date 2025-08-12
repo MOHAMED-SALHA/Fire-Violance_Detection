@@ -1,6 +1,6 @@
-# **Lung and Colon Cancer Detection Using Histopathological Images**
 
-This repository contains the AI components for a **lung and colon cancer image classification model**. The project aims to classify histopathological images as benign or cancerous using deep learning models, including custom CNNs and transfer learning. The best-performing model is deployed via a Flask web application for real-time predictions.
+
+This repository contains the AI components for a **FireDetection**. The project aims to classify histopathological images as benign or cancerous using deep learning models, including custom CNNs and transfer learning. The best-performing model is deployed via a Flask web application for real-time predictions.
 
 ---
 
