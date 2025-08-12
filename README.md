@@ -1,4 +1,5 @@
 
+## **FireDetection Model**
 
 This repository contains the AI components for a **FireDetection**. The project aims to classify histopathological images as benign or cancerous using deep learning models, including custom CNNs and transfer learning. The best-performing model is deployed via a Flask web application for real-time predictions.
 
